@@ -1,6 +1,6 @@
 <n> <h3>  Olá sou o Igor Carvalho <n/> </h3>
   <br> </br>
-Estou cursando Ciência da Computação
+Estou cursando Ciência da Computação e aprofundando meus conhecimentos em front end
 ##
 <div>
 <img align="center" alt="Igor-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <a/>
