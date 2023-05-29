@@ -11,3 +11,5 @@ Estou cursando Ciência da Computação
 
 </div>
 
+<br>
+<img align="center" alt="Igor-HTML" height="50" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
