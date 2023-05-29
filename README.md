@@ -15,8 +15,8 @@ Estou cursando Ciência da Computação
 <br>
 <div>
  <a href="https://www.linkedin.com/in/igorcarvalhot/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=" _blank"> <a/>
-<img align="center" alt="Igor-HTML" height="20" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
-<img align="center" alt="Igor-HTML" height="20" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a/>
-<img align="center" alt="Igor-HTML" height="20" width="100" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> <a/>
+ <a href="https://www.instagram.com/igodyct/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"> <a/>
+ <a href="igorcarvalhot@outlook.com" target="blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target=" _blank"> <a/>
+
 
 </div>
