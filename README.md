@@ -1,4 +1,5 @@
-Olá sou o Igor Carvalho
+<n> Olá sou o Igor Carvalho <n/>
+Estou cursando Ciência da Computação
 ##
 <div>
 <img align="center" alt="Igor-HTML" height="50" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <a/>
@@ -8,4 +9,4 @@ Olá sou o Igor Carvalho
 
 
 </div>
-##
+
