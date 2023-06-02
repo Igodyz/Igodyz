@@ -1,6 +1,7 @@
 <n> <h3>  Olá sou o Igor Carvalho <n/> </h3>
   <br> </br>
-Estou cursando Ciência da Computação e aprofundando meus conhecimentos em front end
+Developer studying Computer Science passionate about challenges, committed to creating innovative and collaborative solutions. Turning ideas into code and always looking to learn and grow in the area of ​​programming. Contributing to the open source community and building a digital future better. Let's program together!
+
 ##
 <div>
 <img align="center" alt="Igor-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <a/>
